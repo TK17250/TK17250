@@ -1,6 +1,6 @@
 # 🕹 Hello people watching, my name is TK17250.🎮
 
-![TK17250] (https://media.giphy.com/media/1bhJtHOwaJOLfJexWy/giphy.gif)
+![TK17250] (https://github.com/TK17250/https://media.giphy.com/media/1bhJtHOwaJOLfJexWy/giphy.gif)
 
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
