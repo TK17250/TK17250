@@ -15,11 +15,6 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TK17250&theme=dark" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TK17250&theme=dark" />
-</p>
-
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
