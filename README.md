@@ -1,7 +1,7 @@
 # 🕹 Hello people watching, my name is TK17250.🎮
 
 <p align="center">
-    <img src="https://github.com/TK17250/TK17250/blob/main/TK17250.png">
+    <img src="https://github.com/TK17250/TK17250/blob/main/Banner.gif">
 </p>
 
 <!--
