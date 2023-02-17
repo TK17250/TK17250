@@ -36,7 +36,7 @@
 </p>
 
 <!-- custom -->
-<img src="/insolitum/insolitum/raw/main/contributions.svg" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/insolitum/insolitum/main/contributions.svg" style="max-width: 100%;">
 
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
