@@ -35,8 +35,8 @@
     <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-<!-- status -->
-<img src="https://github-profile-trophy.vercel.app/?username=TK17250&theme=dark">
+<!-- custom -->
+<img src="/insolitum/insolitum/raw/main/contributions.svg" style="max-width: 100%;">
 
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
