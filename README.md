@@ -35,9 +35,6 @@
     <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-<!-- custom -->
-<img src="https://raw.githubusercontent.com/insolitum/insolitum/main/contributions.svg" style="max-width: 100%;">
-
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
