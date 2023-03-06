@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="max-width: 100%;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="max-width: 100%; width: 100%;" />
 
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
