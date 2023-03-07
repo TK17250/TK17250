@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
+<!-- status -->
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="max-width: 100%; width: 100%;" />
 
 <!--
