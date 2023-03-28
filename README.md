@@ -1,7 +1,7 @@
 # 🕹 Hello people watching, my name is TK17250.🎮
 
 <p align="center">
-    <img src="https://github.com/TK17250/TK17250/blob/main/Banner.gif">
+    <img src="https://github.com/TK17250/TK17250/blob/main/TsukasaBanner.gif">
 </p>
 
 <!-- Skil -->
@@ -38,8 +38,6 @@
 </p>
 
 <!-- status -->
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TK17250&theme=react" style="max-width: 100%; width: 100%;" />
 
 <!--
 **TK17250/TK17250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
