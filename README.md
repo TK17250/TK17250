@@ -1,7 +1,7 @@
 # 🕹 Hello people watching, my name is TK17250.🎮
 
 <p align="center">
-    <img src="https://github.com/TK17250/TK17250/blob/main/Banner/Tsukasa/Tsukasa.gif">
+    <img src="https://github.com/TK17250/TK17250/blob/main/Tsukasa/Tsukasa.gif">
 </p>
 
 <!-- Skil -->
