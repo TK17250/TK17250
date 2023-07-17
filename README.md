@@ -37,7 +37,9 @@
 </p>
 
 <!-- Status -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TK17250&theme=tokyonight" style="width: 100%;">
+<p align=center>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TK17250&theme=tokyonight">
+</p>
 
 <!-- status -->
 
