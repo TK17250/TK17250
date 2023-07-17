@@ -37,9 +37,7 @@
 </p>
 
 <!-- Status -->
-<p align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TK17250&theme=tokyonight">
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="width: 50%;">
 
 <!-- status -->
 
