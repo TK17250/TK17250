@@ -37,7 +37,7 @@
 </p>
 
 <!-- Status -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="width: 50%;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="width: 100%;">
 
 <!-- status -->
 
