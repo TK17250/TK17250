@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/TK17250/TK17250/blob/main/Tsukasa/Tsukasa5.gif">
+    <img src="https://github.com/TK17250/TK17250/blob/main/Tsukasa/Tsukasa6.gif">
 </p>
 
 <!-- Skil -->
@@ -37,7 +37,6 @@
 </p>
 
 <!-- Status -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TK17250&theme=2077" style="width: 100%;">
 
 <!-- status -->
 
