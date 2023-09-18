@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/TK17250/TK17250/blob/main/Tsukasa/Tsukasa6.gif">
+    <img src="https://github.com/TK17250/TK17250/blob/main/Tsukasa/Tsukasa5.gif">
 </p>
 
 <!-- Skil -->
