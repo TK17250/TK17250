@@ -1,3 +1,5 @@
+<img src="./Banner/snake.svg">
+
 <h2 align="left">Coding skill.</h2>
 
 ###
@@ -81,5 +83,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TK17250&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
 </div>
-
-###
