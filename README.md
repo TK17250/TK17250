@@ -1,4 +1,4 @@
-<img src="./Banner/snake.svg">
+<a href="https://app.daily.dev/tk17250"><img src="https://api.daily.dev/devcards/v2/QeE4J38tpK4ayqAqp6C3e.png?r=aft&type=wide" width="652" alt="TK's Dev Card"/></a>
 
 <h2 align="left">Coding skill.</h2>
 
